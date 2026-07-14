@@ -113,25 +113,4 @@ If this shows the wrong time, the issue is with your system clock rather than th
 
 ---
 
-## 🤝 Contributing
 
-Contributions are welcome!
-
-1. Fork the repository.
-2. Create a new branch.
-3. Commit your changes.
-4. Open a Pull Request.
-
----
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
----
-
-## 👨‍💻 Author
-
-**Your Name**
-
-If you like this project, consider giving it a ⭐ on GitHub!
